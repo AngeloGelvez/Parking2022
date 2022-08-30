@@ -1,0 +1,74 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* NAVBAT */
+.navbar {
+    background-color: #2f3640;
+}
+
+.navbar img {
+    width:50px; 
+    height:auto;
+}
+
+.contenido ul {
+    display: flex;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+
+.lista li a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0px 5px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    transition-delay: .1s;
+    transition-duration: .2s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+}
+
+/* EFECTO HOVER */
+.lista li a:hover {
+    color: rgba(240, 248, 255, 0.708);
+}
+
+/*-----------------*/
+/* BANNER */
+aside {
+    background-color: #c7ecee;
+}
+
+.main {
+    display: flex;
+    padding: 200px 70px;
+    padding-bottom: 0px;
+}
+
+.main-text {
+    margin-top: 80px;
+}
+
+.main-text h1 {
+    font-size: 60px;
+    font-weight: bold;
+    width: 100%;
+    height: auto;
+}
+
+.main-banner {
+    width: 100%;
+    height: auto;    
+    margin-top: -200px;
+    margin-right: -70px;
+}
+
+.main-banner img {
+    width: 100%;
+    height: auto;
+}
+
