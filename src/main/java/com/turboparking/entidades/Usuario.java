@@ -33,13 +33,13 @@ public class Usuario{
     */
     private String nombre;
     
-    @Column(name = "correo_persona", length =45, unique = true)
+    @Column(name = "correo_persona", length =45, unique = true, nullable =false)
     private String correo;
     
-    @Column(name = "contraseña_persona", length =45)
+    @Column(name = "contraseña_persona", length =45, nullable =false)
     private String contraseña;
     
-    @Column(name ="hora_persona")
+    @Column(name ="hora_persona", length=10, nullable =false)
     private String horaInicio;
 
     public Usuario() {

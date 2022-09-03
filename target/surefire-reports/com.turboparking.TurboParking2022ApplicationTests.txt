@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.turboparking.TurboParking2022ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 87.868 s - in com.turboparking.TurboParking2022ApplicationTests

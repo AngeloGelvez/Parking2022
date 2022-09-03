@@ -17,7 +17,7 @@ public class ControladorPrincipal {
     }
     
     // URL http://localhost:8080/login
-    @GetMapping("/login")
+    @GetMapping("/inicio-sesion")
     public String cargarInicioSesion() {
         return "iniciosesion";
     }

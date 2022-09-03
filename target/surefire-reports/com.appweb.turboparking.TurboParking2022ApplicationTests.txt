@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.appweb.turboparking.TurboParking2022ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.095 s <<< FAILURE! - in com.appweb.turboparking.TurboParking2022ApplicationTests
-com.appweb.turboparking.TurboParking2022ApplicationTests  Time elapsed: 3.093 s  <<< ERROR!
-java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
-
