@@ -1,4 +1,4 @@
 com\turboparking\controladores\ControladorPrincipal.class
-com\turboparking\entidades\Usuario.class
 com\turboparking\TurboParking2022Application.class
+com\turboparking\entidades\Usuario.class
 com\turboparking\entidades\Vehiculo.class
