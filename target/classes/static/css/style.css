@@ -72,3 +72,336 @@ aside {
     height: auto;
 }
 
+/*-------------------INICIO DE SESION----------------------*/
+
+/* Desktop - 1 */
+
+.mainbackground {
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Rectangle 1 */
+
+.secondarybackground{
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #0022E3;
+}
+
+/* Frame */
+
+.thirthbackground{
+position: absolute;
+width: 2469px;
+height: 1206px;
+left: 0px;
+top: -105px;
+
+opacity: 0.6;
+box-shadow: inset 0px 4px 25px rgba(0, 0, 0, 0.25);
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.01%;
+top: 0.01%;
+bottom: 0%;
+
+background: rgba(0, 0, 153, 0.1);
+}
+
+/* Cómo funciona */
+.upperbutton_howitworks{
+position: absolute;
+width: 207px;
+height: 30px;
+left: 789px;
+top: 106px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FF9E00;
+}
+
+
+/* Reserva tu parking */
+.upperbutton_reserve{
+
+position: absolute;
+width: 260px;
+height: 30px;
+left: 1056px;
+top: 106px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FF9E00;
+
+}
+
+/* Ayuda */
+.help{
+position: absolute;
+width: 88px;
+height: 30px;
+left: 1379px;
+top: 110px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+/* Registrarme */
+
+.upperbutton_registers{
+position: absolute;
+width: 175px;
+height: 30px;
+left: 1683px;
+top: 112px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FF9E00;
+}
+
+/* TURBOPARKING */
+.turboparkinglogo{
+position: absolute;
+width: 791px;
+height: 47px;
+left: 66px;
+top: 90px;
+
+font-family: 'Audiowide';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 76px;
+
+color: #FFFFFF;
+}
+
+/* Frame */
+
+.thirthbackground{
+
+position: absolute;
+width: 101px;
+height: 49px;
+left: 61px;
+top: 59px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.01%;
+top: 0.01%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* Rectangle 2 */
+
+.login_button_border{
+position: absolute;
+width: 156px;
+height: 55px;
+left: 1497px;
+top: 103px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+/* Ingresar */
+.login_button_txt{
+position: absolute;
+width: 119px;
+height: 30px;
+left: 1515px;
+top: 114px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000099;
+}
+
+
+/* Rectangle 3 */
+
+.box_content{
+box-sizing: border-box;
+
+position: absolute;
+left: -1.88%;
+right: 32.76%;
+top: 25.65%;
+bottom: 11.02%;
+
+background: #000099;
+mix-blend-mode: multiply;
+border: 1px solid #000000;
+filter: blur(2px);
+border-radius: 30px;
+}
+
+/* APP-web 1 */
+.box_content_image{
+position: absolute;
+width: 1346px;
+height: 826px;
+left: -423px;
+top: 189px;
+
+background: url(APP-web);
+}
+
+/* Encuentra y parquea fácilmente */
+.box_content_title{
+position: absolute;
+width: 660px;
+height: 286px;
+left: 693px;
+top: 316px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 96px;
+
+color: #FFFFFF;
+}
+
+
+/* Sómos la forma más rápida y sencilla para gestionar tu aparcamiento en Bogotá */
+.box_content_subtitle{
+position: absolute;
+width: 510px;
+height: 130px;
+left: 693px;
+top: 653px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+
+/* Rectangle 4 */
+.box_content_button{
+position: absolute;
+width: 280px;
+height: 55px;
+left: 923px;
+top: 844px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+/* Descarga Gratis */
+.box_content_button_text{
+position: absolute;
+width: 229px;
+height: 30px;
+left: 953px;
+top: 857px;
+
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000099;
+}
+
+
+/* Mask group */
+.ndbox_content_image_mask{
+position: absolute;
+width: 1327px;
+height: 684px;
+left: 1404px;
+top: 277px;
+}
+
+
+/* Rectangle 5 */
+.ndbox_content_image_mask_content{
+box-sizing: border-box;
+
+position: absolute;
+left: 73.12%;
+right: -42.24%;
+top: 25.65%;
+bottom: 11.02%;
+
+background: #000099;
+mix-blend-mode: multiply;
+border: 1px solid #000000;
+filter: blur(2px);
+border-radius: 30px;
+}
+
+/* PARQUEO 2 1 */
+.ndbox_content_image_mask{
+position: absolute;
+left: 125.94%;
+right: -80.31%;
+top: 88.98%;
+bottom: -52.31%;
+
+background: url();
+transform: rotate(-180deg);
+}
+/*----------------------fin homepage--------------------------*/
